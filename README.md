@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoublahmar10
 - 👀 I’m interested in web developpement 
-- 🌱 I’m currently preparing my computer science master degree at the university of Caen Normandy - French. 
+- 🌱 I’m currently preparing my computer science master degree at the university of Claude Bernard Lyon 1 - French. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail(ayoublahmar55@gmail.com) 
 
